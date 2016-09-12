@@ -3,7 +3,7 @@
 
 This is a simple web application for Comp 490 with Jeff Wiegley. It satisfies the minimum requirements I believe.
 
-1. It responds to the GET verb. 
+1. It responds to the GET verb using curl for string query.
 
 2. It has a different response based upon the URI provided to the application. 
 
