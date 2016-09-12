@@ -1,4 +1,5 @@
 # Comp 490 Project 1 - Primer Project/Simple.cgi 
+         Status (working)
 
 This is a simple web application for Comp 490 with Jeff Wiegley. It satisfies the minimum requirements I believe.
 
