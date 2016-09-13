@@ -1,6 +1,10 @@
 # Comp 490 Project 1 - Primer Project/Simple.cgi 
          Status (working)
 
+In this project, you are to create a simple web application.  This web application can be written in any programming language of your choice.  However, you must use the simple CGI interface.  I.e., you can’t use the vendor supplied libraries to read access the HTTP Header information.
+
+The functionality of your web application is to be defined by you.  There is a minimal number of features that are required, you are free to add additional features. 
+
 This is a simple web application for Comp 490 with Jeff Wiegley. It satisfies the minimum requirements I believe.
 
 1. It responds to the GET verb.
