@@ -1,4 +1,8 @@
 # Comp 490 Project 1 - Primer Project/Simple.cgi 
+# Francis Herrera 101751271
+# September 12, 2016
+# Teacher: Jeff Weigley
+
          Status (working)
 
 In this project, you are to create a simple web application.  This web application can be written in any programming language of your choice.  However, you must use the simple CGI interface.  I.e., you can’t use the vendor supplied libraries to read access the HTTP Header information.
@@ -18,5 +22,6 @@ This is a simple web application for Comp 490 with Jeff Wiegley. It satisfies th
          /home/users15/fah36765/public_html/cgi-bin/simple.cgi
 
 5. It consumes information from a remote web-server according to the URI provided in the query string. 
+    http://www.csun.edu/~fah36765/cgi-bin/simple.cgi?www.google.com
 
 6. Web application url : http://www.csun.edu/~fah36765/cgi-bin/simple.cgi 
